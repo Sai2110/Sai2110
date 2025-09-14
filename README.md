@@ -1,21 +1,24 @@
 <h1 align="center">👋 Hey There, I'm Sai</h1>
-<h3 align="center">🚀 Aspiring Full-Stack Developer | MCA @ VESIT</h3>
+<h3 align="center">🚀 Full Stack Developer | MERN (React, Node.js, MongoDB) | Building AI-powered & ML-driven Applications | MCA @ VESIT</h3>
 
 ---
 
 ### 💡 About Me  
-- 🌱 Currently learning and building with **React.js, Node.js, and MongoDB**  
-- 🤖 Exploring **Generative AI** and **Machine Learning**  
+- 🌱 Building **full-stack web applications** with **React.js**, **Node.js**, **Express.js**, and **MongoDB**  
+- 🤖 Exploring **Generative AI**, **Machine Learning**, and **Data Science**  
 - 🛠 Creator of **Krushak** – ML-powered Fertilizer Recommendation App  
+- 🧠 Passionate about writing **clean code**, solving **challenging problems**, and delivering **real-world solutions**  
 - 🤝 Open to **internships, collaborations, and freelance opportunities**  
-- 🧠 Passionate about **clean code, problem-solving, and real-world applications**
+- 🌟 Constantly learning new **technologies, tools, and frameworks** to stay ahead in the tech world  
 
 ---
 
 ### 🌐 Connect with Me  
 <p align="left">
-<a href="https://linkedin.com/in/your-link" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-<a href="mailto:your-email@example.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
+<a href="https://www.linkedin.com/in/sai-mehetre-0b14a0231/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+<a href="mailto:saimehetre633@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
+<a href="https://github.com/Sai2110" target="_blank"><img src="https://img.icons8.com/color/48/000000/github.png"/></a>
+<a href="https://www.instagram.com/sai.mehetre/" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
 </p>
 
 ---
@@ -29,22 +32,20 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
 ### 📌 Featured Projects  
-- 🌱 **[Krushak – Fertilizer Recommendation App](https://github.com/yourusername/Krushak)**  
-- 📊 **[Expense Tracker Web App](https://github.com/yourusername/Expense-Tracker)**  
-- 🤖 **[AI Quiz Generator](https://github.com/yourusername/AI-Quiz-Generator)**  
-- 💡 **[Leetcode AI Hintify (Chrome Extension)](https://github.com/yourusername/Leetcode-AI-Hintify)**  
+- 🌱 **[Krushak – Fertilizer Recommendation App](https://github.com/Sai2110/Krushak)** – ML-based app that suggests fertilizers based on soil reports.  
+- 📊 **[Expense Tracker Web App](https://github.com/Sai2110/expense-tracker)** – Track and manage personal expenses with charts and reports.  
+- 🤖 **[AI Quiz Generator](https://github.com/Sai2110/AI-Quiz-Generator)** – Generate quizzes using AI from custom topics.  
+- 💡 **[Leetcode AI Hintify (Chrome Extension)](https://github.com/Sai2110/Leetcode-AI-Hints)** – Chrome extension providing step-by-step hints for Leetcode problems using AI.  
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
+### 📈 GitHub Stats  
+![Sai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sai2110&show_icons=true&theme=radical)
